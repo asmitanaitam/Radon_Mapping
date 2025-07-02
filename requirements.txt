@@ -1,0 +1,7 @@
+geopandas
+pandas
+folium
+geemap
+leafmap
+matplotlib
+openpyxl
